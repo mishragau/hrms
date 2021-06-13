@@ -1,1 +1,5 @@
 put the folder in hrms file
+
+this is the first modification after commit 
+
+this is the second modificaiton where the same file will be in working dir , stagging , repo
